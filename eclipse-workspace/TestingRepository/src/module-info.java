@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Navis
- *
- */
-module TestingRepository {
-}
